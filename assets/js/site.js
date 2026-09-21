@@ -1,5 +1,5 @@
 const GFK = {
-  whatsapp: '93806385912',
+  whatsapp: '93706385912',
   translations: {
     en: {
       announcement: 'Draft website — board and partner profiles are placeholders until official details are provided.',
